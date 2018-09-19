@@ -1,0 +1,63 @@
+# github.com/golang/protobuf v1.2.0
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/timestamp
+# github.com/mitchellh/hashstructure v0.0.0-20170609045927-2bca23e0e452
+github.com/mitchellh/hashstructure
+# github.com/opentracing/opentracing-go v1.0.2
+github.com/opentracing/opentracing-go
+github.com/opentracing/opentracing-go/log
+# github.com/pkg/errors v0.8.0
+github.com/pkg/errors
+# github.com/satori/go.uuid v1.2.0
+github.com/satori/go.uuid
+# github.com/sirupsen/logrus v1.0.6
+github.com/sirupsen/logrus
+# github.com/spf13/cast v1.2.0
+github.com/spf13/cast
+# golang.org/x/crypto v0.0.0-20180820150726-614d502a4dac
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/net v0.0.0-20180826012351-8a410e7b638d
+golang.org/x/net/context
+# golang.org/x/sys v0.0.0-20180824143301-4910a1d54f87
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# google.golang.org/genproto v0.0.0-20180817151627-c66870c02cf8
+google.golang.org/genproto/googleapis/rpc/status
+# google.golang.org/grpc v1.14.0
+google.golang.org/grpc/codes
+google.golang.org/grpc/status
+# gopkg.in/src-d/go-errors.v1 v1.0.0
+gopkg.in/src-d/go-errors.v1
+# gopkg.in/src-d/go-mysql-server.v0 v0.0.0-20180919134539-fe0ac6e55ce3
+gopkg.in/src-d/go-mysql-server.v0/sql
+gopkg.in/src-d/go-mysql-server.v0
+gopkg.in/src-d/go-mysql-server.v0/server
+gopkg.in/src-d/go-mysql-server.v0/sql/analyzer
+gopkg.in/src-d/go-mysql-server.v0/sql/expression/function
+gopkg.in/src-d/go-mysql-server.v0/sql/parse
+gopkg.in/src-d/go-mysql-server.v0/mem
+gopkg.in/src-d/go-mysql-server.v0/sql/expression
+gopkg.in/src-d/go-mysql-server.v0/sql/plan
+gopkg.in/src-d/go-mysql-server.v0/sql/expression/function/aggregation
+gopkg.in/src-d/go-mysql-server.v0/internal/regex
+# gopkg.in/src-d/go-vitess.v0 v0.0.0-20180222154500-2cb632cdef3c
+gopkg.in/src-d/go-vitess.v0/mysql
+gopkg.in/src-d/go-vitess.v0/sqltypes
+gopkg.in/src-d/go-vitess.v0/vt/proto/query
+gopkg.in/src-d/go-vitess.v0/stats
+gopkg.in/src-d/go-vitess.v0/tb
+gopkg.in/src-d/go-vitess.v0/vt/proto/binlogdata
+gopkg.in/src-d/go-vitess.v0/vt/proto/replicationdata
+gopkg.in/src-d/go-vitess.v0/vt/sqlparser
+gopkg.in/src-d/go-vitess.v0/vt/vttls
+gopkg.in/src-d/go-vitess.v0/bytes2
+gopkg.in/src-d/go-vitess.v0/hack
+gopkg.in/src-d/go-vitess.v0/vt/proto/vtgate
+gopkg.in/src-d/go-vitess.v0/vt/proto/vtrpc
+gopkg.in/src-d/go-vitess.v0/vt/vterrors
+gopkg.in/src-d/go-vitess.v0/vt/proto/topodata
+gopkg.in/src-d/go-vitess.v0/sync2
+gopkg.in/src-d/go-vitess.v0/cache
